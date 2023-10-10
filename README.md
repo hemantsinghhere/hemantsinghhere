@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemantsinghhere
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 🌱 Node.js , React , Redux , MongoDB
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me honey25303@gmail.com
 
