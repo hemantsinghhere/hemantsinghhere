@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemantsinghhere
 - 👀 I’m interested in Web Development
 - 🌱 Node.js , React , Redux , MongoDB
-- 💞️ I’m looking to collaborate on Web Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me honey25303@gmail.com
 
 <!---
